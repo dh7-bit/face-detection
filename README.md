@@ -7,3 +7,4 @@ It can detect faces from a webcam, compare them to known embeddings, and label t
 - FAISS (`faiss-cpu==1.13.2`)
 - Ultralytics YOLO (`ultralytics==8.4.19`)
 - Pickle (builtin Python module)
+- dlib(19.22.99)
