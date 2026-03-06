@@ -1,6 +1,6 @@
 import cv2 
 import os
-def load_images():
+def load_imagess():
     folder='rawimages'
     images=[]
     for image_name in os.listdir(folder):
